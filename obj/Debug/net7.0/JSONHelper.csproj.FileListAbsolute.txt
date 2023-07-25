@@ -1,0 +1,17 @@
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\bin\Debug\net7.0\JSONHelper.exe
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\bin\Debug\net7.0\JSONHelper.deps.json
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\bin\Debug\net7.0\JSONHelper.runtimeconfig.json
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\bin\Debug\net7.0\JSONHelper.dll
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\bin\Debug\net7.0\JSONHelper.pdb
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\obj\Debug\net7.0\JSONHelper.csproj.AssemblyReference.cache
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\obj\Debug\net7.0\JSONHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\obj\Debug\net7.0\JSONHelper.AssemblyInfoInputs.cache
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\obj\Debug\net7.0\JSONHelper.AssemblyInfo.cs
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\obj\Debug\net7.0\JSONHelper.csproj.CoreCompileInputs.cache
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\obj\Debug\net7.0\JSONHelper.dll
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\obj\Debug\net7.0\refint\JSONHelper.dll
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\obj\Debug\net7.0\JSONHelper.pdb
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\obj\Debug\net7.0\JSONHelper.genruntimeconfig.cache
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\obj\Debug\net7.0\ref\JSONHelper.dll
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\BDS-A003\Documents\C#\GPT\JSONHelper\obj\Debug\net7.0\JSONHelper.csproj.CopyComplete
